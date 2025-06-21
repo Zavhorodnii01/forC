@@ -1,4 +1,4 @@
-package com.zegocloud.zimkit;
+package com.zavhorodnii.zimkit;
 
 import org.junit.Test;
 
